@@ -13,3 +13,4 @@ int main() {
     cout<<"\nvedika age="<<age;
     return 0;
 }
+
